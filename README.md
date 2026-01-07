@@ -3,17 +3,12 @@ This repository is a curated collection of data analytics projects that I have c
 
 The projects included here cover a wide range of analytics concepts such as:
 
-Data cleaning and preprocessing
-
-Exploratory Data Analysis (EDA)
-
-Data visualization and storytelling
-
-Statistical analysis
-
-Financial and spending analysis
-
-Dashboard creation and insights generation
+-Data cleaning and preprocessing
+-Exploratory Data Analysis (EDA)
+-Data visualization and storytelling
+-Statistical analysis
+-Financial and spending analysis
+-Dashboard creation and insights generation
 
 Each project focuses on solving real-world problems using data and demonstrates my ability to:
 
